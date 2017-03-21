@@ -1,0 +1,127 @@
+.container {
+  padding: 10em;
+  background-image: url(http://www.zastavki.com/pictures/2560x1600/2010/Creative_Wallpaper_Wooden_wall_019562_.jpg)
+}
+body {
+  text-align: center;
+  font-family: Helvetica, Light;
+}
+h1 {
+  font-size:  4em;
+  margin-bottom: 0;
+  color: white;
+}
+h2 {
+  font-size: 2em;
+  color: white;
+  margin-top: 0;
+  font-family: Lobster;
+}
+h1, h2 {
+  background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoE0XLOe9CVRTCM823reKuD0kNSpi3VSDiXJVCLYSokaa7fl6e);
+  padding: .5em;
+
+}
+h3 {
+  font-size: 1.5em;
+  font-family: Lobster;
+}
+p {
+  font-size: 1em;
+}
+.intro {
+  background: grey;
+  color: white;
+  border-width: 1em;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+.Enlightenment {
+  background: grey;
+  color: white;
+  border-width: 1em;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+.About {
+  background: grey;
+  color: white;
+  border-width: 1em;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+.Participation {
+  background: grey;
+  color: white;
+  border-width: 1em;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+.benefits {
+  background: grey;
+  color: white;
+  border-width: 1em;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+.Requirements {
+  background: grey;
+  color: white;
+  border-width: 1em;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+.Dave {
+  background: grey;
+  color: white;
+  border-width: 1em;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+.Design {
+ background: grey;
+  color: white;
+  border-width: 1em;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+.Archives {
+  background: grey;
+  color: white;
+  border-width: 1em;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+.Resources {
+  background: grey;
+  color: white;
+  border-width: 1em;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+.footer {
+  background: grey;
+  color: white;
+  border-width: 1em;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+a:link {
+    color: white;
+  style: no-underline;
+  text-decoration: none;
+}
+a:hover {
+    color: maroon;
+}
+a:visited {
+  color: black;
+}
+@media (min-width: 482px) {
+	section {
+		justify-content: space-around;
+	}
+
+	p {
+		font-size: 1em;
+	}
