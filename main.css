@@ -1,5 +1,6 @@
 .container {
-  padding: 10em;
+  max-width: 80%;
+	margin: 0 auto;
   background-image: url(http://www.zastavki.com/pictures/2560x1600/2010/Creative_Wallpaper_Wooden_wall_019562_.jpg)
 }
 body {
